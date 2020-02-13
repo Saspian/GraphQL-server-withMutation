@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "3",
+      "name": "Sara Williams",
+      "email": "Swilliams@gmail.com",
+      "age": 70
+    },
+    {
+      "id": "4",
+      "name": "Kate wilson",
+      "email": "kwilson@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "5",
+      "name": "Sanjay Gurung",
+      "email": "nesaspian@gmail.com",
+      "age": 15
+    },
+    {
+      "id": "6",
+      "name": "Sam bhandari",
+      "email": "sbhandari@gmail.com",
+      "age": 45
+    },
+    {
+      "name": "Harry Kane",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "IfPEMdU"
+    },
+    {
+      "name": "Saspian sparrow",
+      "email": "saspian@outlook.com",
+      "age": 18,
+      "id": "TSR6LDq"
+    }
+  ]
+}
