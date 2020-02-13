@@ -1,5 +1,5 @@
 # GraphQL-server-withMutation
-Built a GraphQL server with mutation.
+Built a GraphQL server with mutation functionality
 
 ## About 
 Mutation is the ability to add CRUD operation in any database with the help of GraphQL. In this project we've made
